@@ -1,0 +1,24 @@
+header{
+    background-color: #eebb44;
+    margin: 0;
+}
+
+header .row {
+    /* Reset margin from grid*/
+    margin-top: 0;
+}
+
+.header h1{
+    margin: 10px 0;
+}
+
+
+.card-sub{
+    border: 1px solid lightgrey;
+    margin-top: -5px;
+    padding: 0 20px 0 20px;
+}
+
+.card img {
+    width: 100%;
+}
